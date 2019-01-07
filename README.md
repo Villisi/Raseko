@@ -1,0 +1,2 @@
+# Raseko
+Esimerkki projektinhallinnasta multimediatuotannossa
